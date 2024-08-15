@@ -11,6 +11,7 @@ I started coding with the age of 12 years old and slowly learned to code indepen
 * 🚀  I'm currently working on [OSDev: FlagOS](http://https://flagos.dev/)
 * 🧠  I'm learning \[NULL\]
 * 🤝  I'm open to collaborating on \[NULL\]
+* 💼  I have a certeficate in C# [FreeCodeCamp.org](https://www.freecodecamp.org/certification/fcc391638b5-3ecc-4231-8543-0ef4d7d68c7f/foundational-c-sharp-with-microsoft)
 
 <a href="https://www.x.com/LG10sys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LG10sys?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
