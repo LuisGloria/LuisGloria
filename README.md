@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm LG10sys</h1>
+<h1 align="center">Hewwo, LG10sys here :3</h1>
 <h3 align="center">X86 Assembly, C++ and Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisgloria&label=Profile%20views&color=0e75b6&style=flat" alt="luisgloria" /> </p>
 
-- 🔭 I’m currently working on **[null]**
+-  I’m currently working on **My website ig**
 
-- 🌱 I’m currently learning **Java...not by will...**
+-  I’m currently learning **Java...not by will...**
 
-- 📫 How to reach me **LG10sys@proton.me**
+-  How to reach me **LG10sys@proton.me**
 
-- ⚡ Fun fact **uint16_t Anxiety = 65535;**
+-  Fun fact **uint16_t Anxiety = 65535;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
